@@ -1,14 +1,13 @@
 <a id="readme-top"></a>
-<div align="center">
-  <h3 align="center">Data Visualization Project</h3>
-  <p align="center">
-    For this project, we compare 2 different datasets: vaccination rates by age and positive covid rates over time to see what effect vaccines had in the reduction of covid cases. The datasets can be found in the Ontario data catalog: https://data.ontario.ca/organization/health
-  </p>
-</div>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+# Data Visualization Project
+  <p>
+    For this project, we compare 2 different datasets: vaccination rates by age and positive covid rates over time to see what effect vaccines had in the reduction of covid cases. The datasets can be found in the Ontario data catalog: https://data.ontario.ca/organization/health
+  </p>
 
 
 ## Motivation
@@ -18,13 +17,19 @@ Our motivation for this study came from the curiosity of understanding how effec
  * [![Python][Python.org]][Python-url]
    * [![Matplotlib][Matplotlib.org]][Matplotlib-url]
    * [![NumPy][NumPy.org]][NumPy-url]
-   * [![Pandas][Pandas.pydata.org]][Pandas-url]
+   * [![Pandas][Pandas.org]][Pandas-url]
+   * [![Seaborn][Seaborn.org]][Seaborn-url]
+ * [![Jupyter][Jupyter.org]][Jupyter-url]
+
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributors
 <a href="https://github.com/CoderMF/Data-Visualization-Project/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=CoderMF/Data-Visualization-Project" alt="contrib.rocks image" />
 </a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
@@ -48,9 +53,15 @@ Project Link: https://github.com/CoderMF/Data-Visualization-Project
 [linkedin-url]: https://www.linkedin.com/in/maham-farooq-100/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[NumPy.org]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
-[NumPy-url]: https://numpy.org/
-[Pandas.pydata.org]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-[Pandas-url]: https://pandas.pydata.org/
 [Matplotlib.org]: https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white
 [Matplotlib-url]: https://matplotlib.org/
+[NumPy.org]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[NumPy-url]: https://numpy.org/
+[Pandas.org]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[Pandas-url]: https://pandas.pydata.org/
+[Seaborn.org]: https://img.shields.io/badge/Seaborn-4C6F8C?style=for-the-badge&logoColor=white
+[Seaborn-url]: https://seaborn.pydata.org/
+[Jupyter.org]: https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
+[Jupyter-url]: https://jupyter.org/
+
+
